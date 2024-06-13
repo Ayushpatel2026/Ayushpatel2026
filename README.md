@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ayush
+# 👋 **Hi, I’m Ayush**
+---
 - Software Engineering @ McMaster University
 - Educational Research Assistant @ McMaster University
 - 📫 Let's connect on [LinkedIn](www.linkedin.com/in/ayush-patel-b55995291)
