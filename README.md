@@ -1,6 +1,7 @@
 # 👋 **Hi, I’m Ayush**
 - Software Engineering @ McMaster University
 - Educational Research Assistant @ McMaster University
+- Check out my [portfolio website](https://ayushpatel2026.github.io/personal_portfolio/)
 - 📫 Let's connect on [LinkedIn](www.linkedin.com/in/ayush-patel-b55995291)
 
 <!---
