@@ -41,7 +41,7 @@ Hey, I'm Ayush Patel, a software engineer based in Hamilton, Ontario, Canada. I 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%23ff0044?style=for-the-badge&logo=Anaconda&logoColor=white)
 
 ## My Stats
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushpatel2026&show_icons=true&theme=radical)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushpatel2026&show_icons=true&hide_rank=true&hide=stars&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushpatel2026&layout=compact&theme=radical)
 
