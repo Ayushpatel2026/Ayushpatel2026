@@ -4,6 +4,7 @@
 Hey, I'm Ayush Patel, a software engineer based in Hamilton, Ontario, Canada. I have developed a wide range of software from games to full-stack web apps. I am currently a student at McMaster University studying Software Engineering. I am passionate about learning new technologies and building new projects. I am always looking for new opportunities to learn and grow as a developer. Please feel free to reach out to me if you have any questions or would like to work together.
 ## Current Positions
 * Software Developer - iBiomed Society | Nov 2024 - Present
+* Teaching Assistant for Computer Architecture | Jan 2025 - Present
 
 ## Past Positions
 * Teaching Assistant for Digital Systems | Sept 2024 - Dec 2024
