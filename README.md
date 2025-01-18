@@ -3,7 +3,10 @@
 ## Software Engineering Student at McMaster University
 Hey, I'm Ayush Patel, a software engineer based in Hamilton, Ontario, Canada. I have developed a wide range of software from games to full-stack web apps. I am currently a student at McMaster University studying Software Engineering. I am passionate about learning new technologies and building new projects. I am always looking for new opportunities to learn and grow as a developer. Please feel free to reach out to me if you have any questions or would like to work together.
 ## Current Positions
+* Software Engineer - Tech4Good - McMaster | Jan 2025 - Present
+   - Building a mobile app for Scleroderma Canada
 * Software Developer - iBiomed Society | Nov 2024 - Present
+  -  Building a website for the iBiomed Society
 * Teaching Assistant for Computer Architecture | Jan 2025 - Present
 
 ## Past Positions
@@ -40,7 +43,9 @@ Hey, I'm Ayush Patel, a software engineer based in Hamilton, Ontario, Canada. I 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23e1ff9c?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=%23ffffff)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-%2373ffc5?style=for-the-badge&logo=intellijidea&logoColor=%23ffffff)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23ff99b8?style=for-the-badge&logo=jupyter&logoColor=%23ffffff)
-![Anaconda](https://img.shields.io/badge/Anaconda-%23ff0044?style=for-the-badge&logo=Anaconda&logoColor=white)
+![Express.JS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 ## My Stats
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushpatel2026&show_icons=true&hide_rank=true&hide=stars&theme=radical)
