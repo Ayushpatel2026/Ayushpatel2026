@@ -1,16 +1,20 @@
 # **Hi, I’m Ayush!**
 
 ## Software Engineering Student at McMaster University
-Hey, I'm Ayush Patel, a software engineer based in Hamilton, Ontario, Canada. I have developed a wide range of software from games to full-stack web apps. I am currently a student at McMaster University studying Software Engineering. I am passionate about learning new technologies and building new projects. I am always looking for new opportunities to learn and grow as a developer. Please feel free to reach out to me if you have any questions or would like to work together.
+
+Hello, I am Ayush, an aspiring software engineer. I blend problem-solving and creativity to build efficient technologies, from mobile apps and scalable APIs to full-stack applications and security research. I am committed to a collaborative, user-centered approach, creating meaningful, functional software and fostering learning. I am always open to new opportunities to learn and grow. Please feel free to reach out!
+
 ## Current Positions
+* Mobile Application Security Research Intern - McMaster Center for Software Certification (McSCert) | May 2025 - Present
+   - Investigating the security vulnerabilities of mobile healthcare applications
 * Software Developer - iBiomed Society - McMaster University | Nov 2024 - Present
    - Building a mobile app for Scleroderma Canada as part of the Society's Tech4Good initiative
    - Building a website for the iBiomed Society
-* Teaching Assistant for Computer Architecture | Jan 2025 - Present
 
 ## Past Positions
+* Teaching Assistant for Computer Architecture | Jan 2025 - Apr 2025
 * Teaching Assistant for Digital Systems | Sept 2024 - Dec 2024
-* Educational Research Assistant @ McMaster University | June 2024 - August 2024
+* Educational Research Assistant @ McMaster University | Jun 2024 - Aug 2024
 
 ## Programming Languages and Tech! 🖥️
 ![Java](https://img.shields.io/badge/Java-%237883ff?style=for-the-badge&logo=JAVA&logoColor=%23ffffff)
